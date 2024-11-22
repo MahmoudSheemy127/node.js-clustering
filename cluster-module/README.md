@@ -1,0 +1,12 @@
+Article (Finish the practical stuff at first, then write the theortical side):
+	- Research:
+		- Improve the performance of your node.js application (Discover the possibilites)
+		- Methods of clustering or horizontal scaling of your node.js application
+		- What is done with deployment cases
+	- Do manual clustering on a node.js application D
+	- Test with requests (Apache Bench to generate the enough metrics) D
+	- Check the PM2 tool (Deployment options)
+	- Test with requests
+	- Seek how to measure metrics
+	- Compare with manual clustering
+	- Options with deployment or docker ?
